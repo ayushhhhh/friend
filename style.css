@@ -7,11 +7,12 @@
         justify-content: center;
         align-items: center;
         margin-top: 20px;
+        margin-bottom:40px;
     }
 
     .container {
         width: 350px;
-        height: 730px;
+        height:100%;
         /* border: 15px solid #465365; */
         /* border-radius: 50px; */
         /* overflow: hidden; */
